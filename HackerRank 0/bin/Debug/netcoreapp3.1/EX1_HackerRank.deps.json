@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX1_HackerRank/1.0.0": {
+        "runtime": {
+          "EX1_HackerRank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX1_HackerRank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.exe
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.deps.json
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.runtimeconfig.json
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.runtimeconfig.dev.json
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.dll
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\bin\Debug\netcoreapp3.1\EX1_HackerRank.pdb
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.csprojAssemblyReference.cache
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.csproj.CoreCompileInputs.cache
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.AssemblyInfoInputs.cache
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.AssemblyInfo.cs
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.dll
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.pdb
+D:\Documents\Embry Riddle\MSSA\cs_projects\EX1_HackerRank\obj\Debug\netcoreapp3.1\EX1_HackerRank.genruntimeconfig.cache
